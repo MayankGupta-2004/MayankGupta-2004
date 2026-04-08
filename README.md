@@ -1,7 +1,6 @@
 # Hi, I'm Mayank Gupta 👋
 
 🎓 MCA student @ Amity University, Noida (2024–2026)
-💻 AI/ML Engineer | Backend Developer | NLP Specialist
 📍 Delhi, India | 📧 mayank33mg@gmail.com
 
 ## 🛠 Tech Stack
