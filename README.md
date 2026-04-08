@@ -1,25 +1,28 @@
 # Hi, I'm Mayank Gupta 👋
 
-AI/ML Engineer & Backend Developer | MCA @ Amity University
+🎓 MCA student @ Amity University, Noida (2024–2026)
+💻 AI/ML Engineer | Backend Developer | NLP Specialist
+📍 Delhi, India | 📧 mayank33mg@gmail.com
 
-## What I build
-- AI systems for NLP, sentiment analysis & voice processing
-- REST APIs and full-stack apps with Node.js + React
-- Data analytics dashboards with real-time visualizations
+## 🛠 Tech Stack
+**Languages:** Python · JavaScript · Java  
+**AI/ML:** NLP · Sentiment Analysis · Scikit-learn · Voice Processing  
+**Backend:** Node.js · Express.js · REST APIs  
+**Databases:** MySQL · MongoDB  
+**Tools:** Docker · AWS (Basics) · Git · Pandas · NumPy
 
-## Tech Stack
-**AI/ML:** Python · NLP · Scikit-learn · Sentiment Analysis
-**Backend:** Node.js · Express.js · REST APIs · MongoDB · MySQL
-**Tools:** Git · Docker · AWS (Basics) · Chart.js
+## 🚀 Featured Projects
+- 🌾 [Agriculture Mental Health AI System](#) — NLP platform for farmer stress detection
+- 📊 [User Behavior Analytics Tracker](#) — MongoDB + Chart.js analytics dashboard  
+- 🖥️ [Desktop Task Assistant](#) — Voice-controlled NLP task manager
+- 🔒 [kavach-server](#) — Node.js/Express REST API server
 
-## Currently
-- MCA student at Amity University (2024–2026)
-- Backend Intern @ WebFreakz Digitech Pvt. Ltd.
-- Building AI projects for real-world social impact
+## 📜 Certifications
+- Python Essentials 1 & 2 — Cisco (2025)
+- Intro to Cybersecurity — Cisco (2025)
+- Python for Data Science — Udemy (2024)
 
-📫 mayank33mg@gmail.com
-🔗 linkedin.com/in/mayank-gupta-917768275
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mayank-gupta-917768275)
 <!--
 **MayankGupta-2004/MayankGupta-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
